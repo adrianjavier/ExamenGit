@@ -1,1 +1,2 @@
-import component
+let abc=45
+
